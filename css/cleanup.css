@@ -16,7 +16,7 @@
 }
 /* child combiner */
 /* selects the child div of .parent */
-#wall .parent > div {
+#wall #tag-5 .parent > div {
   display: none;
 } 
 
